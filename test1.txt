@@ -1,4 +1,8 @@
 first
 second
+<<<<<<< HEAD
 three
 four
+=======
+five
+>>>>>>> test
